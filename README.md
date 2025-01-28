@@ -8,7 +8,7 @@ For the machine learning models, I selected algorithms that fit the type of prob
 
 Throughout the process, I kept iterating and tuning the models. When performance fell short of expectations, I experimented with hyperparameter tuning techniques like grid search and random search. Regularization methods (L1 and L2) were also applied to prevent overfitting and improve generalization, especially in more complex models.
 
-Once I was satisfied with the model’s performance, I moved on to deployment. For Python projects, this often involved wrapping up scripts into executable files or automating workflows. For machine learning models, I deployed them using web frameworks like Flask or FastAPI, allowing users to interact with the models via an API. I also explored deploying models on cloud platforms like AWS or Google Cloud for scalability and real-time predictions.
+Once I was satisfied with the model’s performance, I moved on to deployment. For Python projects, this often involved wrapping up scripts into executable files or automating workflows. For machine learning models, I deployed them using web frameworks like Flask or FastAPI, allowing users to interact with the models via an API. I also explored deploying models on Azure cloud for scalability and real-time predictions.
 
 After deployment, I ensured the models were monitored and maintained. I set up logging and alerting to track model performance, and if needed, retrained models with new data or tuned them further to handle real-world changes in the data distribution. Monitoring was key to keeping the models running efficiently over time.
 
